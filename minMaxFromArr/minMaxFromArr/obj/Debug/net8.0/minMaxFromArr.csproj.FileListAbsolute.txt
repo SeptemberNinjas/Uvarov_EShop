@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\bin\Debug\net8.0\minMaxFromArr.exe
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\bin\Debug\net8.0\minMaxFromArr.deps.json
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\bin\Debug\net8.0\minMaxFromArr.runtimeconfig.json
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\bin\Debug\net8.0\minMaxFromArr.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\bin\Debug\net8.0\minMaxFromArr.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.AssemblyInfo.cs
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.sourcelink.json
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\refint\minMaxFromArr.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\minMaxFromArr.genruntimeconfig.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\minMaxFromArr\minMaxFromArr\obj\Debug\net8.0\ref\minMaxFromArr.dll
