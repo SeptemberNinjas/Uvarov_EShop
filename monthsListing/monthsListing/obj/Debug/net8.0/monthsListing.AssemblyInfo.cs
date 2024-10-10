@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("monthsListing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14818907c28972b0277ff6b6afb97bc3d1d7361c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df66c1bbcf8741e69b056675144cfc0d3c8983ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("monthsListing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("monthsListing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

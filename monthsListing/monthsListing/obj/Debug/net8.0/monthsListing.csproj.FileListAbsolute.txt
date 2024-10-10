@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\bin\Debug\net8.0\monthsListing.exe
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\bin\Debug\net8.0\monthsListing.deps.json
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\bin\Debug\net8.0\monthsListing.runtimeconfig.json
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\bin\Debug\net8.0\monthsListing.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\bin\Debug\net8.0\monthsListing.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.AssemblyInfo.cs
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.sourcelink.json
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\refint\monthsListing.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\monthsListing.genruntimeconfig.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\obj\Debug\net8.0\ref\monthsListing.dll
