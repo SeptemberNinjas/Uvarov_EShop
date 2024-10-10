@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task6-salaries")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74a321a0a355b3906c25c7d03e07ce5bc7648601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a083e0ea8876cbf54d852dc2299913aa1d6a10b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task6-salaries")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task6-salaries")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

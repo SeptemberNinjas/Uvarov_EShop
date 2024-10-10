@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.AssemblyInfo.cs
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.sourcelink.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\bin\Debug\net8.0\Task6-salaries.exe
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\bin\Debug\net8.0\Task6-salaries.deps.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\bin\Debug\net8.0\Task6-salaries.runtimeconfig.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\bin\Debug\net8.0\Task6-salaries.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\bin\Debug\net8.0\Task6-salaries.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\refint\Task6-salaries.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\Task6-salaries.genruntimeconfig.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Task6-salaries\Task6-salaries\obj\Debug\net8.0\ref\Task6-salaries.dll
