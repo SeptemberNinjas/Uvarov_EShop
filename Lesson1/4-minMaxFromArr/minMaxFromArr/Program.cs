@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            
             int[] numbers = { 5, 12, 2, 0, 20, 1500 };
 
             int minValue = numbers[0];

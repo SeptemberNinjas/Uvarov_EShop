@@ -31,8 +31,7 @@ namespace Task6_salaries
          };
 
             Console.WriteLine("Введите номер месяца (1 - январь; ...;12 - декабрь):");
-
-            
+                        
             if (int.TryParse(Console.ReadLine(), out int month) && month >= 1 && month <= 12)
             {
                 decimal totalSalary = CalculateTotalSalary(salaries, month - 1); 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj": {}
+    "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj": {
+    "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj",
+        "projectUniqueName": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj",
         "projectName": "minMaxFromArr",
-        "projectPath": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj",
+        "projectPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\minMaxFromArr.csproj",
         "packagesPath": "C:\\Users\\Uvarov.MN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\obj\\",
+        "outputPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uvarov.MN\\AppData\\Roaming\\NuGet\\NuGet.Config",

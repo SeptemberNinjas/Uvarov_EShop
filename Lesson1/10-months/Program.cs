@@ -40,7 +40,6 @@ namespace _10_months
             }           
                         
             int days = DateTime.DaysInMonth(date.Year, date.Month);   
-            
             Console.WriteLine($"В {date.Month} месяце: {days} дней.");
 
         }
