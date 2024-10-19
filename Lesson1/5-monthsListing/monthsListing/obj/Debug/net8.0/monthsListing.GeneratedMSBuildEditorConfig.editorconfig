@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = monthsListing
-build_property.ProjectDir = C:\Users\Uvarov.MN\source\repos\CSharp\monthsListing\monthsListing\
+build_property.ProjectDir = C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\5-monthsListing\monthsListing\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\minMaxFromArr\\",
+  "WorkspaceRootPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}|minMaxFromArr\\minMaxFromArr.csproj|c:\\users\\uvarov.mn\\source\\repos\\csharp\\minmaxfromarr\\minmaxfromarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}|6-twoVehicles\\6-twoVehicles.csproj|c:\\users\\uvarov.mn\\source\\repos\\csharp\\lesson1\\4-minmaxfromarr\\6-twovehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}|6-twoVehicles\\6-twoVehicles.csproj|solutionrelative:6-twovehicles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}|minMaxFromArr\\minMaxFromArr.csproj|c:\\users\\uvarov.mn\\source\\repos\\csharp\\lesson1\\4-minmaxfromarr\\minmaxfromarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}|minMaxFromArr\\minMaxFromArr.csproj|solutionrelative:minmaxfromarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}|6-twoVehicles\\6-twoVehicles.csproj|c:\\users\\uvarov.mn\\source\\repos\\csharp\\lesson1\\4-minmaxfromarr\\6-twovehicles\\6-twovehicles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}|6-twoVehicles\\6-twoVehicles.csproj|solutionrelative:6-twovehicles\\6-twovehicles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,17 +38,51 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "6-twoVehicles",
+              "DocumentMoniker": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\6-twoVehicles\\6-twoVehicles.csproj",
+              "RelativeDocumentMoniker": "6-twoVehicles\\6-twoVehicles.csproj",
+              "ToolTip": "C:\\Users\\Uvarov.MN\\Source\\Repos\\CSharp\\Lesson1\\4-minMaxFromArr\\6-twoVehicles\\6-twoVehicles.csproj",
+              "RelativeToolTip": "6-twoVehicles\\6-twoVehicles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T12:27:04.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\minMaxFromArr\\minMaxFromArr\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\6-twoVehicles\\Program.cs",
+              "RelativeDocumentMoniker": "6-twoVehicles\\Program.cs",
+              "ToolTip": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\6-twoVehicles\\Program.cs",
+              "RelativeToolTip": "6-twoVehicles\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:43:51.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\Program.cs",
               "RelativeDocumentMoniker": "minMaxFromArr\\Program.cs",
-              "ToolTip": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\minMaxFromArr\\minMaxFromArr\\Program.cs*",
-              "RelativeToolTip": "minMaxFromArr\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\4-minMaxFromArr\\minMaxFromArr\\Program.cs",
+              "RelativeToolTip": "minMaxFromArr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T03:44:24.182Z",
               "EditorCaption": ""

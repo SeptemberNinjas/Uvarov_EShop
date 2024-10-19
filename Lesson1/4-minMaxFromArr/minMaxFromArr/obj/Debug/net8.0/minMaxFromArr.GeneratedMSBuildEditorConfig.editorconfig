@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = minMaxFromArr
-build_property.ProjectDir = C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\minMaxFromArr\
+build_property.ProjectDir = C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\4-minMaxFromArr\minMaxFromArr\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
