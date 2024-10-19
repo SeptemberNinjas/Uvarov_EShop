@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.AssemblyInfo.cs
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.sourcelink.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\bin\Debug\net8.0\2-fizzBuzz.exe
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\bin\Debug\net8.0\2-fizzBuzz.deps.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\bin\Debug\net8.0\2-fizzBuzz.runtimeconfig.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\bin\Debug\net8.0\2-fizzBuzz.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\bin\Debug\net8.0\2-fizzBuzz.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\refint\2-fizzBuzz.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\2-fizzBuzz.genruntimeconfig.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\2-fizzBuzz\obj\Debug\net8.0\ref\2-fizzBuzz.dll

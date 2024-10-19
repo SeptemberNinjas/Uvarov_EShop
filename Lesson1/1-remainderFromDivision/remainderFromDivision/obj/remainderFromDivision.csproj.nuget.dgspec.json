@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj": {}
+    "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\1-remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj": {
+    "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\1-remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj",
+        "projectUniqueName": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\1-remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj",
         "projectName": "remainderFromDivision",
-        "projectPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj",
+        "projectPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\1-remainderFromDivision\\remainderFromDivision\\remainderFromDivision.csproj",
         "packagesPath": "C:\\Users\\Uvarov.MN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\remainderFromDivision\\remainderFromDivision\\obj\\",
+        "outputPath": "C:\\Users\\Uvarov.MN\\source\\repos\\CSharp\\Lesson1\\1-remainderFromDivision\\remainderFromDivision\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Uvarov.MN\\AppData\\Roaming\\NuGet\\NuGet.Config",

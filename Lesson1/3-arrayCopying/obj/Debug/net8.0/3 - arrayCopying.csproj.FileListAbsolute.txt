@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\bin\Debug\net8.0\3 - arrayCopying.exe
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\bin\Debug\net8.0\3 - arrayCopying.deps.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\bin\Debug\net8.0\3 - arrayCopying.runtimeconfig.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\bin\Debug\net8.0\3 - arrayCopying.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\bin\Debug\net8.0\3 - arrayCopying.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.AssemblyInfo.cs
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.sourcelink.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\refint\3 - arrayCopying.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\3 - arrayCopying.genruntimeconfig.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\3 - arrayCopying\obj\Debug\net8.0\ref\3 - arrayCopying.dll

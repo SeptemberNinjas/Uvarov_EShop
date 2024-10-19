@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\bin\Debug\net8.0\10-months.exe
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\bin\Debug\net8.0\10-months.deps.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\bin\Debug\net8.0\10-months.runtimeconfig.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\bin\Debug\net8.0\10-months.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\bin\Debug\net8.0\10-months.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.AssemblyInfo.cs
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.sourcelink.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\refint\10-months.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\10-months.genruntimeconfig.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\10-months\obj\Debug\net8.0\ref\10-months.dll

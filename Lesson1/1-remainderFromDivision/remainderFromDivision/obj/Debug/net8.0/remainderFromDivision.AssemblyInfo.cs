@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("remainderFromDivision")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e244c6c831207689fc2ccaece36b88dca592aed")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b01e98c1ac5336e82419d936acff1801d8aeb5c1")]
->>>>>>> 8e244c6c831207689fc2ccaece36b88dca592aed
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d17df1c3ffbd401d0aaa002a7ffd0cd72fca6c83")]
 [assembly: System.Reflection.AssemblyProductAttribute("remainderFromDivision")]
 [assembly: System.Reflection.AssemblyTitleAttribute("remainderFromDivision")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

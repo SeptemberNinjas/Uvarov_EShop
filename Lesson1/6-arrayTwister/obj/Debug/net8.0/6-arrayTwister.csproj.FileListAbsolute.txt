@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.AssemblyInfo.cs
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.sourcelink.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\bin\Debug\net8.0\6-arrayTwister.exe
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\bin\Debug\net8.0\6-arrayTwister.deps.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\bin\Debug\net8.0\6-arrayTwister.runtimeconfig.json
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\bin\Debug\net8.0\6-arrayTwister.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\bin\Debug\net8.0\6-arrayTwister.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\refint\6-arrayTwister.dll
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.pdb
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\6-arrayTwister.genruntimeconfig.cache
+C:\Users\Uvarov.MN\source\repos\CSharp\Lesson1\6-arrayTwister\obj\Debug\net8.0\ref\6-arrayTwister.dll
