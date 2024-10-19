@@ -1,0 +1,15 @@
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\bin\Debug\net8.0\6-twoVehicles.exe
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\bin\Debug\net8.0\6-twoVehicles.deps.json
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\bin\Debug\net8.0\6-twoVehicles.runtimeconfig.json
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\bin\Debug\net8.0\6-twoVehicles.dll
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\bin\Debug\net8.0\6-twoVehicles.pdb
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.AssemblyInfoInputs.cache
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.AssemblyInfo.cs
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.csproj.CoreCompileInputs.cache
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.sourcelink.json
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.dll
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\refint\6-twoVehicles.dll
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.pdb
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\6-twoVehicles.genruntimeconfig.cache
+C:\Users\Uvarov.MN\Source\Repos\CSharp\Lesson1\4-minMaxFromArr\6-twoVehicles\obj\Debug\net8.0\ref\6-twoVehicles.dll

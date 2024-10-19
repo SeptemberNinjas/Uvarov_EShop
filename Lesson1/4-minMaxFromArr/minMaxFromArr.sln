@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minMaxFromArr", "minMaxFromArr\minMaxFromArr.csproj", "{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "minMaxFromArr", "minMaxFromArr\minMaxFromArr.csproj", "{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-twoVehicles", "6-twoVehicles\6-twoVehicles.csproj", "{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AEDF429-4FB4-44AA-A66C-029AD1CA857B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FD0DE8-39E9-40DC-9BEE-CA4531B94651}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
