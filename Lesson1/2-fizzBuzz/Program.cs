@@ -40,7 +40,7 @@ namespace _2_fizzBuzz
                 else if (myArr[i] % 5 == 0)
                 {
                     Console.WriteLine("Buzz ");
-                }
+                } 
                 else
                 {
                     Console.WriteLine($"{myArr[i]} ");

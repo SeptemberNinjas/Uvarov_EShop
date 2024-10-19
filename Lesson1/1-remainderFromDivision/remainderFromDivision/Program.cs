@@ -22,7 +22,6 @@ namespace remainderFromDivision
             int quotient = a / b;
             int remainder = a % b;
 
-
             Console.WriteLine(a + " / " + b + " = " + quotient + " остаток " + remainder);
         }
     }

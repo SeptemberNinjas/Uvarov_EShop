@@ -73,7 +73,6 @@ namespace _6_arrayTwister
             return myArrReversed;
         }
 
-
         static void PrintNumbers (int[] numbers)
         {
             Console.Write("Воть перевернутый массив: ");

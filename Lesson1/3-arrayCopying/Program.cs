@@ -29,7 +29,6 @@ namespace _3___arrayCopying
             }
 
 
-
         }
     }
 }

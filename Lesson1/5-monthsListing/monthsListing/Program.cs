@@ -39,8 +39,7 @@ namespace monthsListing
             
             string input = Console.ReadLine();
             int monthNumber;
-
-            
+                        
             if (int.TryParse(input, out monthNumber) && monthNumber >= 1 && monthNumber <= 12)
             {
                 
